@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 54;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -192,6 +192,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1200;
 				LastUpgradeCheck = 1200;
+				ORGANIZATIONNAME = "Kelvin Reid";
 				TargetAttributes = {
 					0C277E9E25263C8300D028E7 = {
 						CreatedOnToolsVersion = 12.0.1;
@@ -207,7 +208,7 @@
 				};
 			};
 			buildConfigurationList = 0C277E9A25263C8300D028E7 /* Build configuration list for PBXProject "iOSControls" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
