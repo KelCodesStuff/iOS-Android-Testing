@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Project02
+//  iOSControls
 //
 //  Created by Kelvin Reid on 8/18/20.
 //  Copyright © 2020 Kelvin Reid. All rights reserved.

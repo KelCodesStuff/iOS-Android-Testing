@@ -1,15 +1,14 @@
 //
-//  Project02Tests.swift
-//  Project02Tests
+//  iOSControlsTests.swift
+//  iOSControlsTests
 //
-//  Created by Kelvin Reid on 8/18/20.
-//  Copyright © 2020 Kelvin Reid. All rights reserved.
+//  Created by Kelvin Reid on 10/1/20.
 //
 
 import XCTest
-@testable import Project02
+@testable import iOSControls
 
-class Project02Tests: XCTestCase {
+class iOSControlsTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
