@@ -1,2 +1,2 @@
-# iOS & Android Testing
-UI Testing for multiple iOS & Android apps
+# iOS Testing
+UI Testing for multiple iOS apps
